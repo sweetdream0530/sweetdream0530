@@ -1,5 +1,3 @@
-<img src="images/svg/header_en.svg"></img>
-
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Full Stack Developer \
